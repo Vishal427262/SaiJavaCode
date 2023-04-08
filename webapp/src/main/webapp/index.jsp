@@ -3,4 +3,4 @@
 <h2> It's time to start the DevOps Project-2!! Get ready!! </h2>
 <h2> This is what complete End-to-End CI-CD pipeline DevOps Project!! </h2>
 <h2> This is my project with ansible vishal ingle</h2>
-<h2> this is end of project using ansible deployment<h2/>
+<h3> this is end of project using ansible deployment<h3/>
